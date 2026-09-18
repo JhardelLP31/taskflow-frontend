@@ -110,7 +110,7 @@ function LoginPage({ error, onLogin }) {
             desde un solo lugar.
           </p>
           <p className="mt-3 max-w-xl text-md leading-8 text-slate-300">
-            Proyecto desarrollado para ANDES.
+            Proyecto desarrollado para Jhar Pumahuillca Llancay.
           </p>
         </section>
 
